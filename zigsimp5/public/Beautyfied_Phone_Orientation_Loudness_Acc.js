@@ -29,6 +29,7 @@
 
                 Tutorial can be found here: 
                 https://sites.hslu.ch/werkstatt/your-smartphone-is-a-sensorpack/
+                Authorin: Hanna Züllig
 */
 
 let socket;
